@@ -8,8 +8,6 @@ def execute():
     # plt.imshow(img1)
 
     # print(img1)
-
-
     print(img1.size)
     print(img1[0].size)
 
